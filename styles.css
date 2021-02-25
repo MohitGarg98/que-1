@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 50px;
+}
+.logo{
+    height: 50px;
+    margin-left: 20px;
+}
+.fas{
+    margin: 10px;
+}
+.right-nav{
+    display: inline;
+    float: right;
+    margin-right: 15px;
+}
+.fas{
+    font-size: 25px;
+    margin-right: 20px;
+}
+.search{
+    position: absolute;
+    top: 10px;
+    left: 40%;
+    
+}
+.search-box{
+    height: 30px;
+    width: 300px;
+}
+.search-btn{
+    height: 37px;
+    cursor: pointer;
+}
+.vedio-img{
+    height: 80vh;
+    width: 65vw;
+    margin: 20px
+}
+.vedio-title{
+    margin: 0px;
+    margin-left: 30px;
+}
+.vedio-views{
+    margin: 20px 0 30px 30px;
+}
+main{
+    display: flex;
+}
+aside{
+    width: 28%;
+    margin-top: 20px;
+}
+.aside-vedio{
+    display: flex;
+    margin-top: 10px;
+}
+.aside-img{
+    width: 43%;
+    height: 90px;
+}
+.headings{
+    margin: 10px 0 5px 5px ;
+}
